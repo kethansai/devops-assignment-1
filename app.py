@@ -4,7 +4,6 @@ Flask REST API - v3.2.4
 """
 import os
 import sqlite3
-import tempfile
 from datetime import datetime
 from flask import Flask, request, jsonify
 
